@@ -142,7 +142,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.background(
                         brush = Brush.verticalGradient(
                             listOf(
-                                MaterialTheme.colorScheme.secondaryContainer.copy(alpha = 0.2f),
+                                MaterialTheme.colorScheme.secondaryContainer.copy(alpha = 0.4f),
                                 MaterialTheme.colorScheme.background,
                             )
                         )
